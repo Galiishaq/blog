@@ -1,0 +1,4 @@
+[submodule "my_blog/public"]
+	path = my_blog/public
+	url = git@github.com:Galiishaq/galiishaq.github.io.git
+	branch = main
